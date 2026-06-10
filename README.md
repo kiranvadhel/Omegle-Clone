@@ -1,4 +1,4 @@
-# 🎥 Omegle Clone - Real Time Video Chat App
+# 🎥 ConnectNow – Real-Time Random Video Chat Platform
 
 A real-time **random video chat application** inspired by Omegle.  
 Built using **Next.js, Socket.IO, WebRTC, and Zego Cloud**.
